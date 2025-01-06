@@ -7,7 +7,7 @@ const About = () => {
     const AboutBoxAnimation2 = {
         animationDelay: '0.25s'
     }
-    const Email = "olivialyleknight@gmail.com"
+    const Email = "olivialyleknight@oribia.dev"
     const Subject = "Oribia.Dev%20Contact"
     const Body = "Please%20tell%20me%20what%20you're%20contacting%20me%20about.%20Be%20sure%20to%20be%20specific%20and%20to%20include%20your%20preferred%20method%20of%20contact!"
     const MailString = `mailto:${Email}?subject=${Subject}&body=${Body}`
@@ -15,14 +15,14 @@ const About = () => {
         <><Helmet>
             <title>About • Oribia</title>
             <meta property="og:title" content="About • Oribia" />
-            <meta name="description" content="A biography about me." />
-            <meta property="og:description" content="A biography about me." />
+            <meta name="description" content="A little about me." />
+            <meta property="og:description" content="A little about me." />
         </Helmet>
              {/* <!-- Main Body --> */}
             <div className="MainBody">
                 {/* <!-- Main Title --> */}
                 <div className="MainBodyH1">About Me</div>
-                <div className="MainBodyH2">A biography about me. </div>
+                <div className="MainBodyH2">A little about me. </div>
                 {/* <!-- Project Boxs --> */}
                 <br />
                 <br />
@@ -38,7 +38,7 @@ const About = () => {
                             <div className="about-box-H1-nolink">
                                 Biography
                             </div>
-                            <div className="about-box-H2-nolink">Hi, I'm Olivia (She/Her). I am a aspiring trans girl software developer whos a freshman in college (2027) majoring in Computer Science. I've developed a mulitude of different projects ranging from video games and video game modifications, to websites and discord bots. Some notable projects incude my Minecraft mod TrinityWeapons (Over 350k Downloads), and my Discord bot Meii. Ive learned a bunch of different programming languages including but not limited too, Python, C#, Java, HTML/CSS, Javascript, and SQL. Outside of tech I also love VR, VRChat, music, and Psychology.</div>
+                            <div className="about-box-H2-nolink">~ Hi, I'm Liv!<br/> I'm a aspiring software developer whos majoring in Computer Science. I've developed a mulitude of different projects ranging from video games and video game modifications, to websites and discord bots. Some notable projects incude my Minecraft mod TrinityWeapons, and my Discord bot Meii. Ive learned a bunch of different and unique programming languages throughout the 8 years ive been doing this. Outside of tech I also love VRChat, music, gaming, and 420.</div>
                         </div>
                     </div>
                     <br />
