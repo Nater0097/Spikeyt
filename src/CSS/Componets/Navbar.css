@@ -96,7 +96,7 @@ button{
 } 
 
 /* Media Query Phones */
-@media only screen and (max-device-width: 421px) {
+@media only screen and (max-device-width: 450px) {
   /* Nav Bar */
   .NavBar {
     padding-top: 3vh;

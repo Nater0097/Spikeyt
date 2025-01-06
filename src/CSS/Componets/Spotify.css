@@ -124,7 +124,7 @@
 }  
 
 /* Media Query Phones */
-@media only screen and (max-device-width: 421px) {
+@media only screen and (max-device-width: 450px) {
     /* Spotify */
     .SpotifyContainer{
         margin-left: 0px;
