@@ -38,7 +38,7 @@ const About = () => {
                             <div className="about-box-H1-nolink">
                                 Biography
                             </div>
-                            <div className="about-box-H2-nolink">~ Hi, I'm Liv!<br/> I'm a aspiring software developer whos majoring in Computer Science. I've developed a mulitude of different projects ranging from video games and video game modifications, to websites and discord bots. Some notable projects incude my Minecraft mod TrinityWeapons, and my Discord bot Meii. Ive learned a bunch of different and unique programming languages throughout the 8 years ive been doing this. Outside of tech I also love VRChat, music, gaming, and 420.</div>
+                            <div className="about-box-H2-nolink">~ Hi, I'm Liv!<br/> I'm a aspiring software developer who's majoring in Computer Science. I've developed a mulitude of different projects ranging from video games and video game modifications, to websites and discord bots. Some notable projects incude my Minecraft mod TrinityWeapons, and my Discord bot Meii. Ive learned a bunch of different and unique programming languages throughout the 8 years ive been doing this. Outside of tech I also love VRChat, music, gaming, and 420.</div>
                         </div>
                     </div>
                     <br />
